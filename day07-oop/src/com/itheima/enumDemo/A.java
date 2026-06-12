@@ -1,0 +1,5 @@
+package com.itheima.enumDemo;
+
+public enum A {
+    X,Y,Z;
+}
